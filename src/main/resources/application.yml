@@ -1,0 +1,9 @@
+spring:
+    profiles: test
+name: test-YAML
+environment: test
+
+spring:
+    profiles: prod
+name: prod-YAML
+environment: production
